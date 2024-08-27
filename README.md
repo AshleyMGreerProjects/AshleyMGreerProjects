@@ -1,24 +1,22 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm a dedicated IT professional with a strong background in cybersecurity, compliance, and technical support. My journey has taken me through various roles where I've contributed to enhancing system performance, streamlining compliance processes, and improving user support efficiency.
+I am a dedicated IT professional with a strong focus on coding, cybersecurity, and machine learning. My work involves developing advanced solutions and optimizing processes to drive technological progress.
 
 ## 🔧 What I Do
-- **Compliance IT:** Spearheaded the creation of a unified repository integrating multiple cybersecurity frameworks (ISO 27001/27017, NIST CSF 2.0/1.1, SP 800-53, TISAX) to streamline audit processes and improve data accuracy.
-- **Front-End Development:** Developed a user-friendly AI chatbot UI for the 3M Nucleus support page using Vue.js, JavaScript, CSS, and HTML, enhancing support efficiency and user satisfaction.
-- **System Troubleshooting:** Diagnosed and repaired issues across Windows, MacOS, and Linux systems, and managed technical support for Azure cloud services and Cisco networking equipment.
-- **Team Leadership:** Led and trained personnel in IT and customer service roles, improving team effectiveness and service quality.
+- **Coding Projects:** Develop Python scripts and tools to address real-world challenges and enhance operational efficiency.
+- **Machine Learning:** Implement and refine predictive models to analyze data and generate actionable insights.
+- **Technical Development:** Design and deploy user interfaces and automate processes for improved functionality.
 
 ## 🚀 Skills and Expertise
-- **Cybersecurity & Compliance:** In-depth experience with ISO 27001/27017, NIST CSF, SP 800-53, and TISAX frameworks.
-- **Coding:** Proficient in JavaScript, CSS, HTML, Python, SQL, MySQL and GitHub ecosystem collaboration.
-- **Technical Support:** Expertise in troubleshooting, system optimization, and hardware/software management across various platforms.
-- **Project Management:** Gaining experiance in Project Management utilizing Jira for Agile and Scrum methods.
+- **Programming:** Proficient in Python, JavaScript, CSS, HTML, SQL, and MySQL.
+- **Machine Learning:** Expertise in applying ML algorithms for data analysis and predictive modeling.
+- **Technical Projects:** Skilled in system optimization, troubleshooting, and compliance automation.
 
 ## 🌟 My Mission
-I aim to leverage my technical skills and experience to contribute to projects that prioritize security, efficiency, and user satisfaction. Whether it's improving IT infrastructure, streamlining compliance processes, or developing intuitive user interfaces, I'm passionate about making a meaningful impact.
+I aim to leverage my technical skills and experience to develop impactful solutions that advance technology and improve user experiences.
 
-## 💻 Cybersecurity and Python Projects
-This is where I showcase my work in cybersecurity and Python development. Here, you'll find a collection of my projects, ranging from compliance automation tools to custom Python scripts that solve real-world problems. My focus is on creating solutions that enhance security, optimize processes, and improve user experiences.
+## 💻 Projects
+Explore my repositories to find a range of projects, including cybersecurity tools, Python scripts, and machine learning models. Each project reflects my commitment to solving complex problems and driving innovation.
 
 ## 📫 Get in Touch
-Feel free to reach out if you want to collaborate on projects, discuss cybersecurity frameworks, or just chat about tech!
+For collaborations, project inquiries, or discussions on technology, please contact me at [ashleymgreerjr@gmail.com](mailto:ashleymgreerjr@gmail.com).
